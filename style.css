@@ -98,6 +98,19 @@ nav {
     fill: green;
 }
 
+.lower-btn {
+    height: 80px;
+    width: 270px;
+    background-color: #5551ff;
+    color: black;
+    font-weight: bolder;
+    font-size: large;
+    margin-right: 900px;
+    margin-top: 3px;
+    border-radius: 20px;
+    cursor: pointer;
+}
+
 #main-pic {
     margin: 25px;
 }
